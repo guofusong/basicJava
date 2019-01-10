@@ -18,6 +18,12 @@ class Villain{
 	
 }
 
+/**
+ * 
+ * 描述：练习protected关键字
+ * @Author：guosong
+ * @DateTime：2019年1月10日 下午10:18:13
+ */
 public class Orc extends Villain{
 
 	private int orcNumber;
