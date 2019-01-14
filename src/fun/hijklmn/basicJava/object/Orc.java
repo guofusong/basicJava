@@ -1,5 +1,16 @@
 package fun.hijklmn.basicJava.object;
 
+/**
+ * 
+ * @Desc:father class
+ * @WhoBuilding:GuoFusong
+ * @WhenBuilding:Jan 14, 2019-10:54:54 AM
+ * @WhereBuilding:company
+ * @Packagename:fun.hijklmn.basicJava.object
+ * @Projectname:basicJava
+ * @Filename:Orc.java
+ * @Tags:
+ */
 class Villain{
 	
 	private String name;
@@ -20,7 +31,7 @@ class Villain{
 
 /**
  * 
- * 描述：练习protected关键字
+ * 描述：learn 'protected'
  * @Author：guosong
  * @DateTime：2019年1月10日 下午10:18:13
  */
