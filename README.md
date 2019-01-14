@@ -1,3 +1,3 @@
 # basicJava
 
-1.Object Introduction
+* Object Introduction
