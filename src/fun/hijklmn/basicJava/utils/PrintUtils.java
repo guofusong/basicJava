@@ -15,6 +15,12 @@ import java.util.Collection;
  */
 public class PrintUtils {
 
+	public static void print() {}
+	
+	public static void println() {
+		System.out.println();
+	}
+	
 	public static <T> void print(T t) {
 		System.out.print(t);
 	}
