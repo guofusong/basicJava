@@ -1,6 +1,6 @@
 package fun.hijklmn.basicJava.multistatus;
 
-import static fun.hijklmn.basicJava.utils.PrintUtils.println;
+import static fun.hijklmn.basicJava.utils.PrintUtils.*;
 
 /**
  * 
