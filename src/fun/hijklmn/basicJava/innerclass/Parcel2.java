@@ -43,6 +43,7 @@ public class Parcel2 {
 	}
 	
 	
+	@SuppressWarnings("unused")
 	public void ship(String dest) {
 
 		Contents contents = new Contents();
